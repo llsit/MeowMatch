@@ -14,13 +14,11 @@ class HomePage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              // รูปแมววาดมือ (ใช้ภาพจาก URL ชั่วคราว)
-              Image.network(
-                'https://cdn.pixabay.com/photo/2021/01/14/12/49/cat-5915901_1280.png',
-                height: 180,
+              Container(
+                padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                child: Image.asset('assets/images/cat_icon.png'),
               ),
-              const SizedBox(height: 32),
-
+              
               Text(
                 'แมวแบบไหนเหมาะกับคุณ? 🐾',
                 textAlign: TextAlign.center,
