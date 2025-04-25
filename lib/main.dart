@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:meow_match/question_screen.dart';
 import 'home_page.dart';
 
 void main() {
@@ -19,6 +20,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/' : (context) => const HomePage(),
+        '/quiz' : (context) => const QuestionScreen()
       },
   
     );

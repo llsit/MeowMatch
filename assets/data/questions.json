@@ -1,0 +1,252 @@
+[
+  {
+    "question": "คุณชอบทำอะไรในวันหยุด?",
+    "answers": [
+      {
+        "text": "นอนพักผ่อนที่บ้าน",
+        "type": "persian"
+      },
+      {
+        "text": "เล่นกับเพื่อน",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "ไปเดินป่า",
+        "type": "maine_coon"
+      },
+      {
+        "text": "ทำกิจกรรมท้าทาย",
+        "type": "bengal"
+      },
+      {
+        "text": "คุยกับคนในครอบครัว",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "คุณเป็นคนแบบไหน?",
+    "answers": [
+      {
+        "text": "เรียบร้อยและสงบ",
+        "type": "persian"
+      },
+      {
+        "text": "ร่าเริงและขี้เล่น",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "เข้มแข็งและอดทน",
+        "type": "maine_coon"
+      },
+      {
+        "text": "กล้าหาญและอยากรู้อยากเห็น",
+        "type": "bengal"
+      },
+      {
+        "text": "เปิดเผยและช่างพูด",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "เวลาว่างคุณมักจะ...",
+    "answers": [
+      {
+        "text": "อ่านหนังสือหรือดูหนัง",
+        "type": "persian"
+      },
+      {
+        "text": "เล่นเกมหรือดูคลิปตลก",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "ออกกำลังกาย",
+        "type": "maine_coon"
+      },
+      {
+        "text": "ลองทำสิ่งใหม่ๆ",
+        "type": "bengal"
+      },
+      {
+        "text": "โทรหาเพื่อนหรือครอบครัว",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "คุณชอบสภาพแวดล้อมแบบไหน?",
+    "answers": [
+      {
+        "text": "เงียบสงบ",
+        "type": "persian"
+      },
+      {
+        "text": "อบอุ่นและเป็นกันเอง",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "ธรรมชาติ",
+        "type": "maine_coon"
+      },
+      {
+        "text": "มีชีวิตชีวา",
+        "type": "bengal"
+      },
+      {
+        "text": "มีคนพูดคุยด้วย",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "เมื่อมีปัญหา คุณจะ...",
+    "answers": [
+      {
+        "text": "คิดและแก้ไขด้วยตนเอง",
+        "type": "persian"
+      },
+      {
+        "text": "ขอคำปรึกษาจากเพื่อน",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "สู้ด้วยความมุ่งมั่น",
+        "type": "maine_coon"
+      },
+      {
+        "text": "หาวิธีใหม่ในการแก้",
+        "type": "bengal"
+      },
+      {
+        "text": "พูดคุยเพื่อหาทางออก",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "กิจกรรมที่คุณอยากทำกับสัตว์เลี้ยงคือ?",
+    "answers": [
+      {
+        "text": "นั่งดูหนังด้วยกัน",
+        "type": "persian"
+      },
+      {
+        "text": "เล่นของเล่นแมว",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "เดินเล่นนอกบ้าน",
+        "type": "maine_coon"
+      },
+      {
+        "text": "สอนแมวเล่นทริค",
+        "type": "bengal"
+      },
+      {
+        "text": "คุยกับแมวเหมือนเพื่อน",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "สไตล์แต่งตัวของคุณคือ?",
+    "answers": [
+      {
+        "text": "เรียบง่าย คลาสสิก",
+        "type": "persian"
+      },
+      {
+        "text": "น่ารัก สดใส",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "ลุยๆ แนว outdoor",
+        "type": "maine_coon"
+      },
+      {
+        "text": "แฟชั่นจัดเต็ม",
+        "type": "bengal"
+      },
+      {
+        "text": "เก๋ๆ ไม่ซ้ำใคร",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "คุณรู้สึกยังไงเวลาอยู่คนเดียว?",
+    "answers": [
+      {
+        "text": "สบายใจดี",
+        "type": "persian"
+      },
+      {
+        "text": "เหงาเล็กน้อย",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "ใช้เวลาเรียนรู้ตัวเอง",
+        "type": "maine_coon"
+      },
+      {
+        "text": "อยากออกไปหาประสบการณ์",
+        "type": "bengal"
+      },
+      {
+        "text": "อยากคุยกับใครสักคน",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "คุณจัดการกับอารมณ์ยังไง?",
+    "answers": [
+      {
+        "text": "เก็บไว้และสงบใจ",
+        "type": "persian"
+      },
+      {
+        "text": "ระบายกับคนใกล้ตัว",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "ออกกำลังกาย",
+        "type": "maine_coon"
+      },
+      {
+        "text": "หาทางเบี่ยงเบนความสนใจ",
+        "type": "bengal"
+      },
+      {
+        "text": "พูดมันออกมาเลย",
+        "type": "siamese"
+      }
+    ]
+  },
+  {
+    "question": "คุณอยากเลี้ยงแมวแบบไหน?",
+    "answers": [
+      {
+        "text": "ขี้อ้อน เรียบร้อย",
+        "type": "persian"
+      },
+      {
+        "text": "ขี้เล่น อยู่ใกล้ตลอด",
+        "type": "scottish_fold"
+      },
+      {
+        "text": "ตัวใหญ่ แข็งแรง",
+        "type": "maine_coon"
+      },
+      {
+        "text": "ฉลาด ขี้เล่น",
+        "type": "bengal"
+      },
+      {
+        "text": "คุยเก่ง เป็นเพื่อนคุย",
+        "type": "siamese"
+      }
+    ]
+  }
+]

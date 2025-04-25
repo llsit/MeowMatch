@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
                 padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                 child: Image.asset('assets/images/cat_icon.png'),
               ),
-              
+
               Text(
                 'แมวแบบไหนเหมาะกับคุณ? 🐾',
                 textAlign: TextAlign.center,
@@ -46,7 +46,10 @@ class HomePage extends StatelessWidget {
                   foregroundColor: Colors.white,
                   shadowColor: Colors.pink.shade100,
                   elevation: 5,
-                  padding: const EdgeInsets.symmetric(horizontal: 36, vertical: 14),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 36,
+                    vertical: 14,
+                  ),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(30),
                   ),
@@ -61,7 +64,7 @@ class HomePage extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-              )
+              ),
             ],
           ),
         ),
